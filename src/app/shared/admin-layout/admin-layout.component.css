@@ -1,0 +1,12 @@
+h1 {
+  font-size: 34px;
+  font-weight: bolder;
+  line-height: 32px;
+  font-family: monospace;
+  letter-spacing: normal;
+  margin: 0 0 16px;
+}
+
+.example-sidenav{
+  background-color: gold;
+}

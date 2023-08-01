@@ -1,0 +1,65 @@
+mat-card{
+  margin-bottom: 8px;
+}
+
+.acciones{
+  margin-left: 10px;
+}
+
+.persona-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.mat-mdc-table {
+  table-layout: auto;
+  white-space: pre;
+  background-color: rgb(106, 169, 252);
+}
+
+.mdc-data-table__table {
+  min-width: 80%;
+  margin: auto;
+  border: 0;
+  white-space: nowrap;
+  border-spacing: 0;
+  table-layout: fixed;
+}
+
+.mat-mdc-table .mdc-data-table__header-row {
+  height: 56px;
+  background-color: rgb(23, 116, 238);
+}
+
+
+.acciones {
+  margin-left: 10px;
+  width: 35px;
+  height: 35px;
+}
+
+.acciones1 {
+
+  width: 35px;
+  height: 35px;
+}
+
+.crearTrip{
+  background-color: rgb(106, 169, 252);
+  margin-bottom: 20px;
+}
+
+.cabecera {
+  text-align: center;
+}
+
+th{
+  text-align: center;
+}

@@ -1,0 +1,33 @@
+.bus-container{
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  background: rgb(132, 197, 102);
+  margin: auto;
+}
+
+.busInput {
+  width: 50%;
+  align-self: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.go-back-button {
+  bottom: 7px;
+  background-color: rgb(132, 197, 102);;
+}
+
+.mat-mdc-button:not(:disabled) {
+  color: #fff;
+}
+.mat-mdc-button.mat-mdc-button-base, .mat-mdc-raised-button.mat-mdc-button-base, .mat-mdc-unelevated-button.mat-mdc-button-base, .mat-mdc-outlined-button.mat-mdc-button-base {
+  height: 36px;
+  width: 18%;
+  background-color: rgb(56, 134, 37);
+  margin: auto;
+}
